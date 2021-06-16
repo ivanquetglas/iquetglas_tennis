@@ -410,7 +410,7 @@ insert into PLAYERS values(196, 'Stefano','Galvani', 'M', 'ITA');
 insert into PLAYERS values(197, 'Werner','Eschauer', 'M', 'AUT');
 insert into PLAYERS values(198, 'Alexandre','Sidorenko', 'M', 'FRA');
 insert into PLAYERS values(199, 'Justin','Gimelstob', 'M', 'USA');
-insert into PLAYERS values(2, 'Nikolay','Davydenko', 'M', 'RUS');
+insert into PLAYERS values(2, 'Ivan','Davydenko', 'M', 'RUS');
 insert into PLAYERS values(20, 'Dmitry','Tursunov', 'M', 'RUS');
 insert into PLAYERS values(200, 'Ivan','Navarro-Pastor', 'M', 'ESP');
 insert into PLAYERS values(201, 'Boris','Pashanski', 'M', 'SRB');
