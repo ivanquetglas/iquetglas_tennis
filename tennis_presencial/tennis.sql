@@ -88,9 +88,6 @@ create table TIEBREAKERS (
   tb_loser_tb int null
 );
 
-insert into COUNTRIES values('AFG', 'Afghanistan');
-insert into COUNTRIES values('AHO', 'Netherlands Antilles');
-insert into COUNTRIES values('ALB', 'Albania');
 insert into COUNTRIES values('ALG', 'Algeria');
 insert into COUNTRIES values('AND', 'Andorra');
 insert into COUNTRIES values('ANG', 'Angola');
